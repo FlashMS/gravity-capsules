@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Script",
+    "Status": "✅ Complete",
+    "Name": "portfolio_capsule.ps1",
+    "Purpose": "Recruiter-facing execution proof"
+  },
+  {
+    "Type": "Metadata",
+    "Status": "✅ Complete",
+    "Name": "capsule_manifest.md",
+    "Purpose": "Capsule structure and logic map"
+  },
+  {
+    "Type": "Signature",
+    "Status": "✅ Complete",
+    "Name": "capsule_signature.txt",
+    "Purpose": "SHA256 hash + symbolic identity"
+  },
+  {
+    "Type": "Log",
+    "Status": "✅ Complete",
+    "Name": "validator_log.txt",
+    "Purpose": "Execution trace and trust tier"
+  },
+  {
+    "Type": "Document",
+    "Status": "✅ Complete",
+    "Name": "resume.md",
+    "Purpose": "Recruiter-facing resume capsule"
+  },
+  {
+    "Type": "Summary",
+    "Status": "✅ Complete",
+    "Name": "summary.txt",
+    "Purpose": "External capsule overview"
+  }
+]

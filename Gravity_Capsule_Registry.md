@@ -50,3 +50,8 @@ Symbolic redirects available via `gra.vscgravity.com`
 - [ConfirmShell Validator](../Intern/ConfirmShell.ps1)  
 - [Burst Execution Proof](../Intern/burst.ps1)  
 - [Capsule Signature System](capsule_signature.txt)
+## 🌌 Gravity Capsule Registry
+
+This registry anchors validator capsules across multi-language execution environments. Each capsule encodes symbolic proof, consequence-aware logic, and recruiter-facing clarity. External identity is scaffolded via [vscgravity.com](https://vscgravity.com), with DNS and GitHub Pages integration.
+
+> “Execution is trust. Symbolism is proof.” — Gravity Manifest

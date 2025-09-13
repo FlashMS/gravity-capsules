@@ -1,0 +1,37 @@
+[
+  {
+    "Capsule": "portfolio_capsule.ps1",
+    "TrustTier": "Tier-1: Recruiter",
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Timestamp": "2025-09-06_145451",
+    "Anchor": "Gra@vity"
+  },
+  {
+    "Capsule": "capsule_manifest.md",
+    "TrustTier": "Tier-2: Structural",
+    "SHA256": "9EEE11B6B887D94C04DCC70F535E508FCD351F1D8925F0DA2641ACECF58B584D",
+    "Timestamp": "2025-09-06_145451",
+    "Anchor": "Gra@vity"
+  },
+  {
+    "Capsule": "capsule_signature.txt",
+    "TrustTier": "Tier-1: Recruiter",
+    "SHA256": "5016791D9374FDD02B08D8AB0AE90B0F66F20326DE6432AF94551790BE7750E1",
+    "Timestamp": "2025-09-06_145451",
+    "Anchor": "Gra@vity"
+  },
+  {
+    "Capsule": "validator_log.txt",
+    "TrustTier": "Tier-3: Internal Validator",
+    "SHA256": "F2FAB78F2D0D95EB297F76CB1A828AFCD02F755CA2EA02790D7D7202ACF4362F",
+    "Timestamp": "2025-09-06_145451",
+    "Anchor": "Gra@vity"
+  },
+  {
+    "Capsule": "summary.txt",
+    "TrustTier": "Tier-1: Recruiter",
+    "SHA256": "7689948EF3E2964FFD87B305FEC008AC1749CD6C70C8E83B6F9DEE6AAEFC816B",
+    "Timestamp": "2025-09-06_145451",
+    "Anchor": "Gra@vity"
+  }
+]

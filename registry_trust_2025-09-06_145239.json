@@ -1,0 +1,50 @@
+[
+  {
+    "Anchor": "Gra@vity",
+    "Status": "✅ Complete",
+    "Type": "Script",
+    "Purpose": "Recruiter-facing execution proof",
+    "Name": "portfolio_capsule.ps1",
+    "TrustTier": "Tier-1: Recruiter"
+  },
+  {
+    "Anchor": "Gra@vity",
+    "Status": "✅ Complete",
+    "Type": "Metadata",
+    "Purpose": "Capsule structure and logic map",
+    "Name": "capsule_manifest.md",
+    "TrustTier": "Tier-2: Structural"
+  },
+  {
+    "Anchor": "Gra@vity",
+    "Status": "✅ Complete",
+    "Type": "Signature",
+    "Purpose": "SHA256 hash + symbolic identity",
+    "Name": "capsule_signature.txt",
+    "TrustTier": "Tier-1: Recruiter"
+  },
+  {
+    "Anchor": "Gra@vity",
+    "Status": "✅ Complete",
+    "Type": "Log",
+    "Purpose": "Execution trace and trust tier",
+    "Name": "validator_log.txt",
+    "TrustTier": "Tier-3: Internal Validator"
+  },
+  {
+    "Anchor": "Gra@vity",
+    "Status": "✅ Complete",
+    "Type": "Document",
+    "Purpose": "Recruiter-facing resume capsule",
+    "Name": "resume.md",
+    "TrustTier": "Tier-1: Recruiter"
+  },
+  {
+    "Anchor": "Gra@vity",
+    "Status": "✅ Complete",
+    "Type": "Summary",
+    "Purpose": "External capsule overview",
+    "Name": "summary.txt",
+    "TrustTier": "Tier-1: Recruiter"
+  }
+]
